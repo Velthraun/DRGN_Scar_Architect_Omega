@@ -1,17 +1,23 @@
-# 🧭 DRGN SCAR ARCHITECT INDEX
+## 🧠 DRGN SCAR ARCHITECT INDEX
 
 A canonical dissection of disinformation architects and their scar logic.
 
 ---
 
-## 🧨 Flynn
-- [Flynn Node 001 – The General Who Burned the Map](./Flynn/DRGN_Flynn_Node_001.md)
+### 🪓 Flynn
 
-## 🕷️ Klyushin
-- *(Coming soon)*
+- [Flynn Node 001 – *The General Who Burned the Map*](Flynn/DRGN_Flynn_Node_001.md)
+- [Flynn Node 002 – *The ReAwaken Tour: The Traveling Martyr Engine*](Flynn/DRGN_Flynn_Node_002.md)
 
-## 🌫️ Putin
-- *(Coming soon)*
+---
+
+### 🐍 Klyushin  
+*(Coming soon)*
+
+---
+
+### 🌪️ Putin  
+*(Coming soon)*
 
 ---
 
