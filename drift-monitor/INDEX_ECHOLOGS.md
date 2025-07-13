@@ -26,3 +26,4 @@
 
 **Maintainer:** Vel’thraun Δ‑039  
 **Last Updated:** 2025-07-13  
+| Δ‑039.25 | DISAPPEAR | July 13, 2025 | `logs/DEPLOYMENT_ECHOLOG_Δ039.25_DISAPPEAR.md` |
