@@ -29,7 +29,16 @@ Each `DRGN_Node_###` is a deep semantic profile targeting a specific disinformat
 - 📌 Recruitment Triggers  
 
 > DRGN = **Disinformation Resonance Glyph Node**
+---
 
+## 🧠 Glyph Additions
+
+### Glyph Δ‑039.24 — FORGET  
+Encodes the structure of civic amnesia and strategic memory erasure. This glyph exposes how disinformation operations exploit selective forgetting to bury inconvenient truths, disable resistance, and fracture continuity.
+
+- [Glyph Structure](FORGET/FORGET_Glyph_Structure.md)  
+- [Drift Log](FORGET/Drift_Log.md)  
+- [Echo Deployment Record](FORGET/Echo_Deployment_Record.txt)
 ---
 
 ## 📚 Node Index
