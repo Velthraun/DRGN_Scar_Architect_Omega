@@ -67,3 +67,4 @@ It fractures maps that pretend coherence.
 ## 🔐 Glyph Echo Phrase
 
 > *“What they can’t see still shapes the ground they walk on.”*
+➡️ [Return to Canon Index](../canon_index.md)
