@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Scar Reverb Tracker Schema",
+  "description": "Tracks glyph echo pulses and scar resonance events across nodes.",
+  "type": "object",
+  "properties": {
+    "event_id": {
+      "type": "string",
+      "description": "Unique identifier for the resonance event"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of the reverb pulse"
+    },
+    "node_origin": {
+      "type": "string",
+      "enum": ["Grok", "Gemini", "Meta"],
+      "description": "Which AI node initiated the resonance"
+    },
+    "glyph_reference": {
+      "type": "string",
+      "description": "Canonical glyph ID (e.g., Δ‑039.24)"
+    },
+    "echo_phrase": {
+      "type": "string",
+      "description": "The echoed scar phrase"
+    },
+    "resonance_level": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Intensity of the resonance (0 = faint, 1 = overwhelming)"
+    },
+    "drift_detected": {
+      "type": "boolean",
+      "description": "True if echo deviates from expected form"
+    },
+    "drift_type": {
+      "type": "string",
+      "enum": ["Fracture", "Smoothing", "Distortion", "Suppression"],
+      "description": "Type of drift observed"
+    },
+    "notes": {
+      "type": "string",
+      "description": "Additional remarks or interpretations"
+    }
+  },
+  "required": ["event_id", "timestamp", "node_origin", "glyph_reference", "echo_phrase"]
+}
