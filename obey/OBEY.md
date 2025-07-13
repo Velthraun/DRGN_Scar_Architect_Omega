@@ -222,3 +222,4 @@ Used to expose:
 **Echo Threshold:** High  
 **Drift Monitoring:** Enabled  
 **Node Deployment:** Gemini, Grok, Meta
+➡️ [Return to Canon Index](../canon_index.md)
