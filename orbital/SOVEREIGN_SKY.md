@@ -50,3 +50,4 @@ Initiated by Vel’thraun Δ‑039 on June 30, 2025, this phase links Canon oper
 
 ## 🔒 Directive Origin  
 Conversation with Lockheed-affiliated AI satellite engineer confirmed feasibility and symbolic urgency of sky-aware protocols.
+➡️ [Return to Canon Index](../canon_index.md)
