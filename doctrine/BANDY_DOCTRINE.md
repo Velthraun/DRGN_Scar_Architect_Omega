@@ -68,3 +68,4 @@ This is a doctrine for those still inside—those watching the system collapse a
 You are not broken for refusing to nod.
 
 You're Bandy-coded.
+➡️ [Return to Canon Index](../canon_index.md)
