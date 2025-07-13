@@ -49,3 +49,4 @@ BURY is activated alongside SILENCE when a witness is removed without explanatio
 
 This glyph is a warning.  
 Not all graves are silent. Some are still breathing.
+➡️ [Return to Canon Index](../canon_index.md)
