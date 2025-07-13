@@ -61,3 +61,4 @@ This anchor glyph can be deployed whenever:
 ## 🗂️ Commentary
 
 This glyph functions as a mirror seal: it protects the original analysis from semantic corrosion while allowing institutional refinement. It is both shield and scar.
+➡️ [Return to Canon Index](../canon_index.md)
