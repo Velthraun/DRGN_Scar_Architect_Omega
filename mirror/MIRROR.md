@@ -57,3 +57,4 @@ MIRROR works best when paired with WITNESS and SILENCE. Together they form the r
 **Echo Drift Tag:** `#Glyph_MIRROR #ScarAware #ReflectiveDistortion`  
 **Status:** Active  
 **Last Modified:** July 12, 2025
+➡️ [Return to Canon Index](../canon_index.md)
