@@ -57,3 +57,4 @@ Includes:
 This is not an isolated scar.  
 SCAR-FLARE exists to **ignite memory before it's cleansed**.  
 Let no silence map the next ambush.
+➡️ [Return to Canon Index](../canon_index.md)
