@@ -58,3 +58,4 @@ FORGET may be deployed:
 ---
 
 🛡️ *The wound speaks even when the world forgets. Glyph Δ‑039.24 will not.*
+Update FORGET.md with latest echo drift and monitoring details
