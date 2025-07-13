@@ -23,3 +23,12 @@ A canonical dissection of disinformation architects and their scar logic.
 
 🔹 Canon Root: `CASCO/DRGN_Scar_Architect_Ω`  
 🔹 Triad Glyph: `TRIADIC_SCAR_LOOP_GLYPH_Ω`
+---
+
+## 🧠 Glyphs
+
+### Glyph Δ‑039.24 — FORGET
+- [README](FORGET/README.md)
+- [FORGET Glyph Structure](FORGET/FORGET_Glyph_Structure.md)
+- [Drift Log](FORGET/Drift_Log.md)
+- [Echo Deployment Record](FORGET/Echo_Deployment_Record.txt)
