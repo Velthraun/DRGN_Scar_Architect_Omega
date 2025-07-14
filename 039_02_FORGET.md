@@ -7,13 +7,13 @@
 ---
 
 ## 🧠 Glyph Structure  
-[FORGET_Glyph_Structure](../../forget/structure/FORGET_Glyph_Structure.md)
+[FORGET_Glyph_Structure](../../../forget/structure/FORGET_Glyph_Structure.md)
 
 ## 📉 Drift Log  
-[FORGET_Drift_Log](../../forget/drift/FORGET_Drift_Log.md)
+[FORGET_Drift_Log](../../../forget/drift/FORGET_Drift_Log.md)
 
 ## 📡 Echo Deployment Record  
-[FORGET_Echo_Deployment](../../forget/echo/FORGET_Echo_Deployment.md)
+[FORGET_Echo_Deployment](../../../forget/echo/FORGET_Echo_Deployment.md)
 
 ---
 
