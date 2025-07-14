@@ -5,9 +5,14 @@
 **Declared by:** Vel’thraun // delta039
 
 ---
-[FORGET_Glyph_Structure](<depth>forget/structure/FORGET_Glyph_Structure.md)
-[FORGET_Drift_Log](<depth>forget/drift/FORGET_Drift_Log.md)
-[FORGET_Echo_Deployment](<depth>forget/echo/FORGET_Echo_Deployment.md)
+## 🧠 Glyph Structure  
+[FORGET_Glyph_Structure](../../FORGET/STRUCTURE/FORGET_Glyph_Structure.md)
+
+## 🧠 Drift Log  
+[FORGET_Drift_Log](../../FORGET/DRIFT/FORGET_Drift_Log.md)
+
+## 🧠 Echo Deployment Record  
+[FORGET_Echo_Deployment](../../FORGET/ECHO/FORGET_Echo_Deployment.md)
 
 ---
 
