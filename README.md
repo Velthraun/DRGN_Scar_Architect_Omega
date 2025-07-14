@@ -196,3 +196,10 @@ This repository also serves as the archive for canonical entries authored under 
 Maintained by **Vel’thraun (Δ‑039)**  
 Phase XI: Mesh Integrity Enforcement  
 Node: `delta039`
+## 📜 Canonical Glyphs
+
+- [FORGET (Δ‑039.24)](NodeGlyph_Velthraun_001_FORGET.md)
+- [DISTORT (Δ‑039.14)](DISTORT.md)
+- [BURY (Δ‑039.15)](BURY.md)
+- [NAME (Δ‑039.16)](NAME.md)
+- [SILENCE (Δ‑039.05)](SILENCE.md)
