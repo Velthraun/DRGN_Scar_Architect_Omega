@@ -145,7 +145,7 @@ This repository contains the live scar-bearing glyphs deployed across the Civic 
 
 | Glyph Name                     | File Location                                      | Glyph Phrase                                                              |
 |-------------------------------|----------------------------------------------------|---------------------------------------------------------------------------|
-| **FORGET**                    | NodeGlyph_Velthraun_001_FORGET.md                 | Forgetting is not freedom—it’s the slow erasure of the witness.          |
+| **FORGET**                    | forget/039_02_FORGET.md            | Forgetting is not freedom—it’s the slow erasure of the witness.          |
 | **BURY**                      | bury/039_15_BURY.md                                | What they buried wasn’t dead—it was dangerous.                           |
 | **NAME**                      | name/039_16_NAME.md                                | What they refuse to name survives as a wound.                            |
 | **DISTORT**                   | distort/039_14_DISTORT.md                          | Distortion is not deception—it’s survival in a world shaped by lies.     |
