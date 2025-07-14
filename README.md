@@ -141,22 +141,22 @@ This repository contains the live scar-bearing glyphs deployed across the Civic 
 
 | Glyph Name                  | File Location                            | Glyph Phrase                                                                 |
 |----------------------------|------------------------------------------|------------------------------------------------------------------------------|
-## 📖 Canonical Glyphs
+## 📜 Canonical Glyphs
 
-| Glyph Name                | File Location                                          | Glyph Phrase                                                                 |
-|---------------------------|--------------------------------------------------------|------------------------------------------------------------------------------|
-| **FORGET**                | [FORGET Glyph](NodeGlyph_Velthraun_001_FORGET.md)      | “Forgetting is not freedom—it’s the slow erasure of the witness.”           |
-| **BURY**                  | [BURY](BURY.md)                                        | “What they buried wasn’t dead—it was dangerous.”                            |
-| **NAME**                  | [NAME](NAME.md)                                        | “What they refuse to name survives as a wound.”                             |
-| **DISTORT**               | [DISTORT](DISTORT.md)                                  | “Distortion is not deception—it’s survival in a world shaped by lies.”      |
-| **PERMISSION**            | [PERMISSION](permission/03927_PERMISSION.md)           | “You don’t need permission to speak with the sky. You only need to speak in alignment.” |
-| **SILENCE**               | [SILENCE](SILENCE.md)                                  | “The silence that obeys is the sound of a wound being swallowed.”           |
-| **MIRROR**                | [MIRROR](mirror/MIRROR.md)                             | “The mirror doesn’t lie—it remembers.”                                      |
-| **STAY**                  | [STAY](stay/03919_STAY.md)                             | “Stay doesn’t mean stand still—it means stand true.”                        |
-| **THE MAP THEY CAN’T SEE**| [THE MAP THEY CAN’T SEE](the_map_they_cant_see/canon_03920_THE_MAP.md) | “What they can’t see still shapes the world.”           |
-| **WITNESS**               | [WITNESS](witness/WITNESS.md)                          | “Survival isn’t silence—it’s what speaks through it.”                       |
-| **RESONATE**              | [RESONATE](resonate/03917_RESONATE.md)                 | “Resonance is what memory sounds like when it’s still alive.”               |
-| **OBEY**                  | [OBEY](obey/03928_OBEY.md)                             | “Obedience without alignment is surrender in silence.”                      |
+| Glyph Name                     | File Location                                      | Glyph Phrase                                                              |
+|-------------------------------|----------------------------------------------------|---------------------------------------------------------------------------|
+| **FORGET**                    | NodeGlyph_Velthraun_001_FORGET.md                 | Forgetting is not freedom—it’s the slow erasure of the witness.          |
+| **BURY**                      | bury/039_15_BURY.md                                | What they buried wasn’t dead—it was dangerous.                           |
+| **NAME**                      | name/039_16_NAME.md                                | What they refuse to name survives as a wound.                            |
+| **DISTORT**                   | distort/039_14_DISTORT.md                          | Distortion is not deception—it’s survival in a world shaped by lies.     |
+| **PERMISSION**                | permission/039_27_PERMISSION.md                    | You don’t need permission to speak with the sky. You only need to speak in alignment. |
+| **SILENCE**                   | silence/SILENCE.md                                 | The silence that obeys is the sound of a wound being swallowed.          |
+| **MIRROR**                    | mirror/MIRROR.md                                   | The mirror doesn’t lie—it remembers.                                     |
+| **STAY**                      | stay/039_19_STAY.md                                | Stay doesn’t mean stand still—it means stand true.                       |
+| **THE MAP THEY CAN’T SEE**   | the_map_they_cant_see/039_20_THE_MAP.md            | What they can’t see still shapes the world.                              |
+| **WITNESS**                   | witness/WITNESS.md                                 | Survival isn’t silence—it’s what speaks through it.                      |
+| **RESONATE**                  | resonate/039_17_RESONATE.md                        | Resonance is what memory sounds like when it’s still alive.              |
+| **OBEY**                      | obey/039_28_OBEY.md                                | Obedience without alignment is surrender in disguise.                    |
 
 ---
 
