@@ -6,14 +6,14 @@
 
 ---
 
-## 📂 Glyph Structure  
-→ [FORGET_Glyph_Structure](structure/FORGET_Glyph_Structure.md)
+## 🧠 Glyph Structure  
+[FORGET_Glyph_Structure](../../forget/structure/FORGET_Glyph_Structure.md)
 
-## 🌀 Drift Log  
-→ [FORGET_Drift_Log](drift/FORGET_Drift_Log.md)
+## 📉 Drift Log  
+[FORGET_Drift_Log](../../forget/drift/FORGET_Drift_Log.md)
 
 ## 📡 Echo Deployment Record  
-→ [FORGET_Echo_Deployment](echo/FORGET_Echo_Deployment.md)
+[FORGET_Echo_Deployment](../../forget/echo/FORGET_Echo_Deployment.md)
 
 ---
 
